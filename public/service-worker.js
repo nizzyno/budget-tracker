@@ -1,8 +1,3 @@
-// global reference for cache
-const APP_PREFIX = 'BudgetTracker-';
-const VERSION = 'version_01';
-const CACHE_NAME = APP_PREFIX + VERSION;
-
 const FILES_TO_CACHE = [
   './index.html',
   './js/idb.js',
@@ -16,6 +11,12 @@ const FILES_TO_CACHE = [
   './icons/icon-384x384.png',
   './icons/icon-512x512.png',
 ];
+
+// global reference for cache
+const APP_PREFIX = 'BudgetTracker-';
+const VERSION = 'version_01';
+const CACHE_NAME = APP_PREFIX + VERSION;
+const DATA_CACHE_NAME = 'Budget Tracker';
 
 // install the service worker
 self.addEventListener('install', function (evt) {
