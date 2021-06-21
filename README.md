@@ -17,8 +17,8 @@ An app that allows you to track your budget when both online and offline. This a
 
 ## Installation
 
-Visit URL and download app from URL search bar.
-https://github.com/nizzyno/budget-tracker
+Visit the URL and download app from URL search bar.
+https://immense-peak-17878.herokuapp.com/
 
 ## Usage
 
