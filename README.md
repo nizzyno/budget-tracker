@@ -20,6 +20,8 @@ An app that allows you to track your budget when both online and offline. This a
 Visit the URL and download app from URL search bar.
 https://immense-peak-17878.herokuapp.com/
 
+Local testing demo: (https://drive.google.com/file/d/1j2dBqpE3QX1SZhv8L-5XEUWhBl_SKhYg/view)
+
 ## Usage
 
 Manage and track budget.
